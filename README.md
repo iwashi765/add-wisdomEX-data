@@ -8,7 +8,7 @@
 4. wisdomフォルダ内のmain.pyを動かしてwisdomの形式に合わせて出力する
 5. 作成した画像ファイル、テキストファイルをwisdomEX内のフォルダに配置し、wisdomEX内のエキスパンションが書かれたテキストファイルを編集する
 
-## 各手順でやること
+## 各手順でやること(詳細)
 **1. scrapingフォルダ内のdo_scraping.pyを動かしてカードデータをパック毎にまとめて出力する**
    - トレーナーズウェブサイトの[カード検索](https://www.pokemon-card.com/card-search/)ページを開き、追加するパックの商品名を指定する
    - scrapingフォルダ内のdo_scraping.pyを開き、カード検索ページの最初のカードのid
