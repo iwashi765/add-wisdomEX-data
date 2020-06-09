@@ -36,7 +36,7 @@ f_minに、最後のカードのidをf_maxに設定する
    - [wisdomEXのインストール、起動準備は各自やっているものとします](http://player2.g1.xrea.com/2p.user.pokemonwiki.net/wisdom/)
    - WisdomEX.exeがあるフォルダ位置を"wisdom"として、wisdom内のimage/pokemonの中に、縮小した画像を全て移します
    - wisdom内のtextにあるpokemon_text.datを、作成したpokemon_text.datと置き換えます
-   - wisdom内のexpansionにあるpokemon_expansion.datを開き、次のように書き換えます(変更する場合は手順4のところでwrite_data.pyのpack_listも合わせて変更しましょう)
+   - wisdom内のexpansionにあるpokemon_expansion.datを開き、次のように書き換えます(パックの名前をこれから変更する場合は手順4のところでwrite_data.pyのpack_listも合わせて変更しましょう)
    
 プロモ  
 SM「スターターセット伝説」  
